@@ -1,0 +1,5 @@
+{
+  "bases": {
+    "baseAPI": "http://localhost:3000/"
+  }
+}

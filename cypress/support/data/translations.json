@@ -1,0 +1,17 @@
+{
+  "forgot_password.en": "Forgot password ?",
+  "username_too_short.en": "Username is too short",
+  "username_too_long.en": "Username is too long",
+  "email_error.en": "Please enter email",
+  "password_too_short.en": "Password is too short",
+  "password_too_weak.en": "Password is too weak",
+  "password_error.en": "Please enter password",
+  "email_invalid.en": "Invalid email",
+  "password_invalid.en": "Invalid",
+  "email_invalid_loginPage.en": "The entered email address is invalid",
+  "email_taken.en": "This email has been taken",
+  "username_taken.en": "This username has been taken",
+  "account_created.en": "We've sent you an email with verification link. Confirm your account by clicking the button there.",
+  "incorrect_credentials.en": "Incorrect email or password",
+  "account_created_verify_your_email.en": "Verify your email"
+}
